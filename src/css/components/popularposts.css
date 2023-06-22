@@ -1,0 +1,32 @@
+.popular_posts {
+     padding: 3rem;
+     background-color: aliceblue;
+     border-radius: 1rem;
+     margin-top: 5rem;
+}
+
+.popular_posts {
+     display: flex;
+     flex-direction: column;
+     gap: 3rem;
+}
+
+.popular_posts .post img {
+     width: 70%;
+}
+
+.post {
+     align-items: center;
+     justify-content: center;
+}
+
+.popular_posts .post h3 {
+     font-size: 1.5rem;
+     font-weight: 400;
+}
+
+.popular_posts .post {
+     align-items: center;
+     justify-content: center;
+
+}

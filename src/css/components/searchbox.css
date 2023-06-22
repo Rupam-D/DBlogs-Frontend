@@ -1,0 +1,18 @@
+.search_box {
+     padding: 3rem;
+     background-color: aliceblue;
+     border-radius: 1rem;
+}
+
+.search_box p {
+     margin-bottom: 2rem;
+}
+
+#search {
+     padding: 1.3rem;
+     width: 100%;
+     outline: 0;
+     border: 0;
+     font-size: 1.5rem;
+     border-radius: 1rem;
+}

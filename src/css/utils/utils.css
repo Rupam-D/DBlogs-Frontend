@@ -1,0 +1,75 @@
+.container {
+     max-width: 144rem;
+     margin: auto;
+}
+
+.section {
+     padding: 3rem 5rem;
+}
+
+.dflex {
+     display: flex;
+     align-items: center;
+}
+
+.grid_two_col {
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+     align-items: center;
+     justify-content: center;
+}
+
+.grid_two_col_mod {
+     display: grid;
+     grid-template-columns: 20% 80%;
+     align-items: center;
+     justify-content: center;
+}
+
+.grid_two_row {
+     display: grid;
+     grid-template-rows: repeat(2, 1fr);
+     align-items: center;
+     justify-content: center;
+}
+
+.inb {
+     display: inline-block;
+}
+
+.db {
+     display: block;
+}
+
+.search_btn {
+     margin-top: 2.5rem;
+     padding: 1rem 2rem;
+     width: 100%;
+     background-color: rgb(11, 210, 11);
+     color: #fff;
+     font-size: 1.8rem;
+     outline: none;
+     border: 0;
+     cursor: pointer;
+     border-radius: 1rem;
+}
+
+.readmore_btn {
+     margin-top: 2rem;
+     padding: 1rem 2rem;
+     /* width: 100%; */
+     background-color: #4267B2;
+     color: #fff;
+     font-size: 1.6rem;
+     outline: none;
+     border: 0;
+     cursor: pointer;
+     border-radius: 1rem;
+}
+
+.box_bg {
+     padding: 3rem;
+     background-color: aliceblue;
+     border-radius: 1rem;
+     /* margin-top: 4rem; */
+}

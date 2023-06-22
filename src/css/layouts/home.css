@@ -1,0 +1,12 @@
+.home_main {
+     display: grid;
+     grid-template-columns: 75% 25%;
+     gap: 3rem;
+
+}
+
+.left {
+     display: flex;
+     flex-direction: column;
+     row-gap: 2rem;
+}

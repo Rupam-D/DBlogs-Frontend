@@ -1,0 +1,32 @@
+.article .article_thumbnail img {
+     width: 90%;
+     border-radius: 1rem;
+}
+
+
+.article h2 {
+     text-transform: uppercase;
+     font-size: 2.6rem;
+     line-height: 5rem;
+}
+
+.article p {
+     font-size: 1.5rem;
+}
+
+.article_desc .date_name {
+     flex-direction: row;
+     gap: 1.5rem;
+     font-size: 1.6rem;
+     font-weight: 600;
+     margin-bottom: 1.3rem;
+}
+
+.article_desc .date_name .name {
+     text-transform: capitalize;
+}
+
+.article_desc .date_name .date {
+     font-size: 1.4rem;
+     font-weight: 400;
+}

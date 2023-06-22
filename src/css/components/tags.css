@@ -1,0 +1,16 @@
+.tags li {
+     padding: 1rem 1.2rem;
+     background-color: rgb(255, 255, 255);
+     background-color: rgb(151, 237, 237);
+     text-align: center;
+     cursor: pointer;
+     border-radius: 1rem;
+     -webkit-box-shadow: 0px 9px 14px -3px rgba(173, 173, 173, 1);
+     -moz-box-shadow: 0px 9px 14px -3px rgba(173, 173, 173, 1);
+     box-shadow: 0px 9px 14px -3px rgba(173, 173, 173, 1);
+}
+
+.tags {
+     gap: 3rem;
+     margin-top: 4rem;
+}
